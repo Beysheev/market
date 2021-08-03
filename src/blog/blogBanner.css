@@ -1,0 +1,14 @@
+.blogBack{
+    background: url("https://storage.yandexcloud.net/incrussia-prod/wp-content/uploads/2018/10/2-10.jpg") center/ cover;
+}
+.blogBanner {
+    text-align: center;
+    color: white;
+    padding: 20px 0;
+}
+.blogBanner h2{
+    font-size: 40px;
+}
+.blogBanner p{
+    font-size: 20px;
+}

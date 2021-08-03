@@ -1,0 +1,28 @@
+.fullCard{
+    display: flex;
+    align-items: center;
+    padding: 50px 0;
+}
+.fullCard .image {
+    text-align: center;
+}
+.fullCard .right p{
+    padding: 30px 0;
+}
+.fullCard .right .span {
+    padding-bottom: 20px;
+    font-size: 22px;
+}
+.fullCard .button button{
+    background: darkred;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    color: white;
+    margin-bottom: 20px;
+}
+.but button{
+    padding: 20px 0 30px 50px;
+    text-align: right;
+}

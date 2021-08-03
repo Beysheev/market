@@ -1,0 +1,13 @@
+.socialIcons{
+    display: flex;
+}
+.socialIcons img{
+    width: 30px;
+    padding-left: 20px;
+    margin-right: 10px;
+}
+.socialItem{
+    display: flex;
+    align-items: center;
+    padding: 3px 0;
+}

@@ -1,0 +1,14 @@
+.banner {
+    background: url("https://storage.yandexcloud.net/incrussia-prod/wp-content/uploads/2018/10/Coffee_Cover_1.jpg") no-repeat center;
+    padding: 200px 0;
+    background-size: cover;
+    text-align: center;
+}
+.banner h2{
+    color: white;
+    font-size: 44px;
+    font-family: 'Montserrat', sans-serif;
+}
+.banner h2 span {
+    color: #8b4e00;
+}

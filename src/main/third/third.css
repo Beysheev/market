@@ -1,0 +1,17 @@
+.third {
+    background: url("http://crimea-coffeeservis.ru/wp-content/uploads/2020/02/B9316387727Z.1_20150225124333_000_G2IA2F0PO.1-0.jpg") center;
+    background-size: cover;
+    padding: 100px 0;
+}
+.titleThird {
+    color: white;
+
+    text-align: center;
+}
+.titleThird h3{
+    font-size: 40px;
+}
+.titleThird p{
+    font-size: 20px;
+    padding: 10px 0 20px;
+}
